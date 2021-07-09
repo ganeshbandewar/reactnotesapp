@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactnotesapp/static/js/main.781bde09.chunk.js",
+    "main.js.map": "/reactnotesapp/static/js/main.781bde09.chunk.js.map",
+    "runtime-main.js": "/reactnotesapp/static/js/runtime-main.bdd9421c.js",
+    "runtime-main.js.map": "/reactnotesapp/static/js/runtime-main.bdd9421c.js.map",
+    "static/js/2.a81436c0.chunk.js": "/reactnotesapp/static/js/2.a81436c0.chunk.js",
+    "static/js/2.a81436c0.chunk.js.map": "/reactnotesapp/static/js/2.a81436c0.chunk.js.map",
+    "index.html": "/reactnotesapp/index.html",
+    "static/js/2.a81436c0.chunk.js.LICENSE.txt": "/reactnotesapp/static/js/2.a81436c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd9421c.js",
+    "static/js/2.a81436c0.chunk.js",
+    "static/js/main.781bde09.chunk.js"
+  ]
+}
